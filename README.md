@@ -1,6 +1,6 @@
 # McMaster_Course_764NER
-Course Project Named Entity Recoginition:\n
-  This is a course project from McMaster University,Dept of CAS, course 764.\n
+Course Project Named Entity Recoginition:<br>
+  This is a course project from McMaster University,Dept of CAS, course 764.<br>
   There are two folder corresponding to two datasets.
   A: CoNLL2003
     In this folder, files start with "eng.xxxx" are the orginal files and "eng.test" is a combination of testa,b,c
