@@ -10,6 +10,7 @@ A: CoNLL2003<br>
 >>>inside, three are three folders with three techniques<br>
 >>>>inside each folder, xxx.ipynb is jupyter notebook that can run the algorithms and others are related data files<br>
 >>In the V2 folder, CNN_and_LG is my second version of CNN and logistic regression and others are related data files<br>
+<br>
 B: NEEL2006<br>
 >In this folder, all the files except Model folder are the related data files<br>
 >Inside Model folder:<br>
